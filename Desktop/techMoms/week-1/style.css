@@ -1,0 +1,13 @@
+h1 {
+    color: blue
+}
+
+.index-header {
+    color: aqua;
+    background-color: black;
+    font-size: 35px;
+}
+
+#index-page {
+    color: pink;
+}
